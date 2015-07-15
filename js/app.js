@@ -1,1 +1,1 @@
-var savingsApp = angular.module('SavingsApp', ['ngResource']);
+var savingsApp = angular.module('SavingsApp', ['ngResource', 'ui.bootstrap.datetimepicker']);
