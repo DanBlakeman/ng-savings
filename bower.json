@@ -1,0 +1,22 @@
+{
+  "name": "ng-savings",
+  "version": "0.0.0",
+  "homepage": "https://github.com/DanBlakeman/ng-savings",
+  "authors": [
+    "Dan Blakeman <DanBlakeman@users.noreply.github.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.3",
+    "angular-resource": "~1.4.3"
+  }
+}
